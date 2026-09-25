@@ -64,4 +64,4 @@ public class Barang {
                 + " | Stok: " + stok
                 + " | " + keterangan;
     }
-}
+} 

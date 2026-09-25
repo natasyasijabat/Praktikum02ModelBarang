@@ -34,4 +34,4 @@ public class Main {
         System.out.println(
                 "Stok Keyboard tetap: " + barang2.getStok());
     }
-}
+} 
